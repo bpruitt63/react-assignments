@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.Form-input {
+  display:block;
+  margin: 20px auto;
+  font-size: 1.2em;
+}
+
+.Form-button, .Story-button {
+  font-size: 1.2em;
+  padding: 3px 8px;
+}
+
+.Choice, .Story-p {
+  font-size: 1.2em;
+}
+
+h1 {
+  font-size: 3em;
+}
